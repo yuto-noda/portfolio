@@ -1,3 +1,27 @@
-p {
-    color: green;
+body {
+    background-color: #ccffcc;
+    font-family:GT Sectra Display,Times,Georgia,serif;
+    font-size: large;
+}
+
+h1 {
+    color: rgb(221, 119, 87);
+}
+
+.title{
+    font-weight:700;
+    font-style:normal;
+    fill:#fff;
+    color:darkslategray;
+    font-size:8.5714285714rem;
+    letter-spacing:-.04em;
+    line-height:.8916666667
+}
+
+.name {
+    font-weight:700;
+    font-size:5rem;
+    fill:forestgreen;
+    color:darkslategray;
+    letter-spacing:-.04em;
 }
